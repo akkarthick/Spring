@@ -1,0 +1,3 @@
+
+	private static final Logger logger = Logger
+					.getLogger(DeviceController.class);
